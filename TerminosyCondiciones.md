@@ -44,5 +44,8 @@ Las disputas entre usuarios deben ser resueltas entre las partes implicadas. Cam
 ### 14. Ley Aplicable y Jurisdicción
 Estos términos están regidos por las leyes del país de operación de Cambalachero y cualquier disputa relacionada con estos términos se someterá a la jurisdicción exclusiva de sus tribunales.
 
-### 15. Contacto
+### 15. Legalidad del Contenido Subido
+Los usuarios deben asegurarse de que todo el contenido que suben a Cambalachero, incluyendo imágenes, descripciones de productos, títulos y cualquier otro material, cumple con todas las leyes y regulaciones aplicables. Esto incluye, pero no se limita a, leyes de derechos de autor, leyes de comercio, leyes de privacidad, y cualquier otra legislación relevante. Los usuarios no deben subir contenido que sea ilegal, ofensivo, difamatorio, obsceno o que de alguna manera viole los derechos de terceros. Cambalachero se reserva el derecho de eliminar cualquier contenido que se considere ilegal o inapropiado y de tomar medidas contra el usuario responsable, incluyendo la suspensión o terminación de la cuenta.
+
+### 16. Contacto
 Si tiene alguna pregunta o sugerencia sobre la aplicación Cambalachero, no dude en ponerse en contacto con nosotros. Información del contacto: Email: contact@cambalachero.com
