@@ -1,7 +1,7 @@
 Privacy Policy
 ----------------
 
-Please Read the Full Version Before Downloading, Accessing, or Otherwise Using the Service
+Please Read the Full Version Before Downloading, Accessing, or Otherwise Using the Service.
 If you do not agree to the terms of the privacy policy, please do not use the Service. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at HalsBlue unless otherwise defined in this Privacy Policy.
@@ -47,6 +47,9 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 ### Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+
+----------------
 
 
 Cambalachero Terms and Conditions
@@ -103,8 +106,51 @@ If you have any questions or suggestions about the Cambalachero app, please do n
 
 
 
-###
+----------------
 
+
+
+Política de privacidad
+----------------
+Por Favor Lea la Versión Completa Antes de Descargar, Acceder o Usar el Servicio de Cualquier Otra Manera.
+Si no está de acuerdo con los términos de la política de privacidad, por favor no utilice el Servicio. Si decide utilizar nuestro Servicio, entonces acepta la recopilación y uso de información en relación con esta política. La Información Personal que recopilamos se utiliza para proporcionar y mejorar el Servicio. No utilizaremos ni compartiremos su información con nadie, excepto como se describe en esta Política de Privacidad.
+
+Los términos utilizados en esta Política de Privacidad tienen los mismos significados que en nuestros Términos y Condiciones, los cuales están accesibles en HalsBlue a menos que se definan de otra manera en esta Política de Privacidad.
+
+### Información que Recopilamos
+Cuando usa el Servicio, recopilamos su información personal y otra información sobre usted. A veces, usted proporcionará directamente la información. Otras veces, la recopilaremos automáticamente o a través de un tercero. Cuando se requiera su consentimiento expreso (por ejemplo, si lo exigen las leyes), solo recopilaremos su información si usted da su acuerdo expreso. Al usar el Servicio, usted consiente nuestra recopilación, uso y divulgación de su información. Puede rechazar o retirar este consentimiento en cualquier momento.
+
+### Consentimiento
+Según lo permitido por la ley, el consentimiento para la recopilación de su información personal puede ser implícito. En ciertas circunstancias, puede requerirse el consentimiento expreso, y lo haremos si se determina que debemos obtener el consentimiento expreso de usted. De lo contrario, su aceptación de esta Política indica su consentimiento para la recopilación, uso y divulgación de su información.
+
+Sujeto a restricciones legales y contractuales, puede rechazar o retirar su consentimiento en cualquier momento notificándonos de acuerdo con esta Política. Notamos que algunos de los Servicios requieren su información personal para funcionar correctamente o el Servicio solo puede ofrecerse si nos proporciona su información personal. En tales casos, si rechaza o retira su consentimiento, el Servicio puede no estar disponible para usted.
+
+### Propósitos de Recopilación, Uso y Divulgación
+Usamos la información recopilada en el Servicio para los propósitos enumerados en la sección de Propósitos que se encuentra a continuación; esto incluye (sin limitación) crear informes de investigación de mercado y percepciones de datos que se ponen a disposición de terceros. Si un propósito no está listado en la sección de Propósitos, divulgaremos el propósito antes o en el momento de recopilar la información.
+
+#### Propósitos
+Su información puede ser recopilada, utilizada y divulgada para los siguientes propósitos:
+- Para comunicarnos con usted de acuerdo con las leyes aplicables
+- Para proporcionarle el Servicio, como ofrecerle reembolsos y crear, actualizar y gestionar su cuenta
+- Para verificar su identidad
+- Para conectar con sus otras cuentas, como cuentas de redes sociales
+- Para proporcionar recomendaciones y ofertas sobre productos y servicios
+- Para desarrollar nuevos productos y servicios y mejorar los existentes
+- Para responder a sus consultas y comentarios
+- Para prevenir el fraude y el abuso del Servicio
+- Para proteger a otros usuarios del Servicio y nuestro negocio contra violaciones de seguridad
+- Para entender nuestra base de usuarios y la efectividad del Servicio
+- Para administrar, operar y mejorar el Servicio y para fines comerciales internos
+- Para compilar datos agregados, realizar análisis estadísticos y de otro modo analizar nuestro negocio para fines comerciales internos y externos
+- Para cumplir con requisitos legales y gubernamentales
+- Para cumplir cualquier otro propósito para el cual usted lo proporcione, o para el cual usted dé su consentimiento expreso
+
+Los propósitos para los cuales se recopila su información pueden ser aplicables para que nosotros procesemos su información o para que un proveedor de servicios de terceros procese su información en relación con el Servicio.
+
+### Información Personal
+Esta funcionalidad de la aplicación requiere/solicita a los usuarios que nos proporcionen información de contacto (como su dirección de correo electrónico) e información personal (como sus nombres, números de teléfono, imagen de perfil/foto y detalles de dirección). La información de contacto y
+
+----------------
 
 
 Términos y Condiciones de Cambalachero
