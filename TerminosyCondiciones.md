@@ -4,6 +4,8 @@ Privacy Policy
 Please Read the Full Version Before Downloading, Accessing, or Otherwise Using the Service.
 If you do not agree to the terms of the privacy policy, please do not use the Service. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
+It's important to note that by using our Service, your device ID will be sent to our app's external API. This is a crucial part of how our Service operates, allowing us to provide a more personalized experience and ensure the security and integrity of our Service. We handle this data with the utmost care and in compliance with this Privacy Policy and applicable laws.
+
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at HalsBlue unless otherwise defined in this Privacy Policy.
 
 ### Information We Collect
