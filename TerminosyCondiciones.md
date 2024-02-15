@@ -1,3 +1,61 @@
+Cambalachero Terms and Conditions
+----------------
+
+### 1. Introduction
+Welcome to Cambalachero, your reliable platform for buying, selling, and exchanging goods and services, communicating with other users, and providing ratings that help maintain trust within our community. By downloading and using Cambalachero, you agree to these terms and conditions.
+
+### 2. Acceptance of Terms
+By using the Cambalachero app, you agree to be bound by these terms, which become effective immediately. If you do not agree with the provided terms, you must not use the app.
+
+### 3. Changes and Modifications
+We reserve the right to change these terms at any time. Changes will take effect immediately after they are posted on the app. Your continued use of Cambalachero after such changes will constitute your consent to those changes.
+
+### 4. Registration and Account Security
+When registering with Cambalachero, you agree to provide true, accurate, and complete information. The security of your account is your responsibility, and you must immediately notify any unauthorized use of your account.
+
+### 5. User Conduct
+All users are expected to interact respectfully and honestly. Any form of harassment, abuse, or fraudulent conduct is strictly prohibited and may result in the suspension or termination of your account.
+
+### 6. Transactions and Payments
+Transactions are direct agreements between buyers and sellers. Cambalachero is not a party to these transactions and is not responsible for any disputes that may arise between the parties.
+
+### 7. Posting Products and Use of Images
+Users have the ability to upload images related to their products. By doing so, they confirm that they have the right to use and share these images and grant Cambalachero the right to use them within the platform. Cambalachero has the right to remove any image that infringes on the intellectual property or privacy rights of others.
+
+### 8. AI-Generated Titles and Descriptions
+Cambalachero offers an AI tool to help users create titles and descriptions for their products. By using this tool, users agree that the AI-provided results may be used in their listings within the platform. The accuracy or suitability of the AI-generated texts is not guaranteed.
+
+### 9. Services
+The services section of Cambalachero allows users to offer and seek services. These services must be listed appropriately and comply with all applicable laws and regulations.
+
+### 10. Intellectual Property Rights and User-Generated Content
+Users retain ownership of all content they upload to Cambalachero, but by doing so, grant Cambalachero a license to use such content. This includes the right to modify, reproduce, and distribute the content within the app and in marketing materials.
+
+### 11. Disclaimer
+Cambalachero does not guarantee the accuracy, quality, safety, or legality of the listings or transactions conducted through the platform.
+
+### 12. Termination
+Cambalachero reserves the right to terminate your access to the app for violating these terms and conditions.
+
+### 13. Disputes
+Disputes between users should be resolved among the involved parties. Cambalachero does not get involved in dispute resolution but may provide assistance in the process.
+
+### 14. Governing Law and Jurisdiction
+These terms are governed by the laws of the country of Cambalachero's operation, and any dispute related to these terms will be subject to the exclusive jurisdiction of its courts.
+
+### 15. Legality of Uploaded Content
+Users must ensure that all content they upload to Cambalachero, including images, product descriptions, titles, and any other material, complies with all applicable laws and regulations. This includes, but is not limited to, copyright laws, trade laws, privacy laws, and any other relevant legislation. Users must not upload content that is illegal, offensive, defamatory, obscene, or in any way violates the rights of third parties. Cambalachero reserves the right to remove any content deemed illegal or inappropriate and to take action against the responsible user, including account suspension or termination.
+
+### 16. Contact
+If you have any questions or suggestions about the Cambalachero app, please do not hesitate to contact us. Contact information: Email: contact@cambalachero.com
+
+
+
+
+###
+
+
+
 Términos y Condiciones de Cambalachero
 ----------------
 
@@ -49,3 +107,6 @@ Los usuarios deben asegurarse de que todo el contenido que suben a Cambalachero,
 
 ### 16. Contacto
 Si tiene alguna pregunta o sugerencia sobre la aplicación Cambalachero, no dude en ponerse en contacto con nosotros. Información del contacto: Email: contact@cambalachero.com
+
+
+
