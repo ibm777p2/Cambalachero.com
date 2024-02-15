@@ -117,6 +117,8 @@ Política de privacidad
 Por Favor Lea la Versión Completa Antes de Descargar, Acceder o Usar el Servicio de Cualquier Otra Manera.
 Si no está de acuerdo con los términos de la política de privacidad, por favor no utilice el Servicio. Si decide utilizar nuestro Servicio, entonces acepta la recopilación y uso de información en relación con esta política. La Información Personal que recopilamos se utiliza para proporcionar y mejorar el Servicio. No utilizaremos ni compartiremos su información con nadie, excepto como se describe en esta Política de Privacidad.
 
+Es importante destacar que al usar nuestro Servicio, su ID de dispositivo será enviado a la API externa de nuestra aplicación. Esto es una parte crucial de cómo opera nuestro Servicio, permitiéndonos proporcionar una experiencia más personalizada y asegurar la seguridad e integridad de nuestro Servicio. Manejamos estos datos con el máximo cuidado y en conformidad con esta Política de Privacidad y las leyes aplicables.
+
 Los términos utilizados en esta Política de Privacidad tienen los mismos significados que en nuestros Términos y Condiciones, los cuales están accesibles en HalsBlue a menos que se definan de otra manera en esta Política de Privacidad.
 
 ### Información que Recopilamos
